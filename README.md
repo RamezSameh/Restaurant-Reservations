@@ -1,6 +1,12 @@
-A Windows Desktop application for managing restaurant reservations.
-The system allows users to book tables, manage customer data, and track reservations efficiently.
-Built with a focus on simplicity, performance, and user-friendly interface.
+Restaurant Reservation System (Windows Desktop Application)
+
+
+A Windows Desktop Restaurant Reservation System designed to streamline booking operations in restaurants.
+It enables staff to manage reservations, track table availability, and handle customer data efficiently through a clean desktop interface.
+
+The system reduces manual scheduling errors and improves operational workflow by centralizing all reservation activities in one application.
+
+Built with a focus on usability, performance, and real-world business scenarios.
 
 Technologies used: (C#, .NET, SQL Server)
 Features:
